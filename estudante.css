@@ -2,78 +2,60 @@ body{
 	background: #FFFFFF;
 	}
 
-.borda{
-	border: solid;
-height: 665px;
-width: 100px;
-left: -20px;
-top: -20px;
-background: black;
-border-color: black;
-}
+	.borda{
+		position: absolute;
+width: 210px;
+height: 2048px;
+left: -2px;
+top: 0px;
 
-.margem{
-	margin-left: 100px;
-	margin-top: -10px;
-	margin-bottom: -10px;
-}
-.margem{
-	border:solid;
-height: 665px;
-width: 100px;
-left: -20px;
-top:10px;
 background: #EFA5A5;
-border-color:#EFA5A5;
-
-}
-
+	}
 
 .titulo{
 	position: absolute;
-width: 344px;
-height: 57px;
-left: 230px;
-top: 10px;
-}
- 
-.titulo{
-	font-family: 'Inter';
+width: 540px;
+height: 122px;
+left: 253px;
+top: 13px;
+
+font-family: 'Inter';
 font-style: normal;
 font-weight: 500;
-font-size: 32px;
-line-height: 39px;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
 }
 
-.insta{
-	position: absolute;
-width: 120px;
-height: 29px;
-left: 405px;
-top: 48px;
-}
+.insta{position: absolute;
+width: 245px;
+height: 117px;
+left: 506px;
+top: 62px;
 
-.insta{
-	font-family: 'Inter';
+font-family: 'Inter';
 font-style: normal;
 font-weight: 500;
-font-size: 14px;
-line-height: 17px;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
 }
 
 .texto{
 	position: absolute;
-width: 770px;
-height: 237px;
-left: 400px;
-top: 127px;
-}
+width: 1042px;
+height: 363px;
+left: 289px;
+top: 282px;
 
-.texto{
-	font-family: 'Inter';
+font-family: 'Inter';
 font-style: normal;
 font-weight: 500;
-font-size: 24px;
-line-height: 29px;
+font-size: 40px;
+line-height: 48px;
 text-align: center;
+
+color: #000000;
 }
