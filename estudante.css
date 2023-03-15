@@ -2,7 +2,7 @@ body{
 	background: #FFFFFF;
 	}
 
-	.borda{
+.borda{
 		position: absolute;
 width: 210px;
 height: 2048px;
@@ -47,8 +47,8 @@ color: #000000;
 	position: absolute;
 width: 1042px;
 height: 363px;
-left: 289px;
-top: 282px;
+left: 450px;
+top: 287px;
 
 font-family: 'Inter';
 font-style: normal;
