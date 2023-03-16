@@ -59,3 +59,27 @@ text-align: center;
 
 color: #000000;
 }
+
+.biblioteca{
+	position: absolute;
+width: 527.62px;
+height: 382.78px;
+left: 282.53px;
+top: 847px;
+}
+
+.futsal{
+	position: absolute;
+width: 502px;
+height: 378px;
+top: 847px;
+left: 1200px;
+}
+
+.quimica{
+	position: absolute;
+width: 534px;
+height: 616px;
+left: 760px;
+top: 1328px;
+}
