@@ -20,3 +20,24 @@ top: 0px;
 
 background: #EFA5A5;
 }
+.caminhao{
+position: absolute;
+	height: 423px;
+	width: 451px;
+	left: 300px;
+	top: 225px;
+}
+.eu{
+	position: absolute;
+	height: 784px;
+	width: 482px;
+	left: 800px;
+	top: 225px;
+}
+.borboleta{
+	position: absolute;
+	height:343px;
+	width:450px;
+	left: 300px;
+	top: 650px;
+}
