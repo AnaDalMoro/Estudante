@@ -1,0 +1,22 @@
+.titulo{
+  position: absolute;
+width: 540px;
+height: 122px;
+left: 253px;
+top: 13px;
+
+  font-size: 60px;
+  font-family: Inter;
+  font-style: normal;
+
+}
+
+.borda{
+position: absolute;
+width: 210px;
+height: 1000px;
+left: -2px;
+top: 0px;
+
+background: #EFA5A5;
+}
