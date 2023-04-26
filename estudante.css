@@ -67,7 +67,7 @@ color: #000000;
 width: 527.62px;
 height: 382.78px;
 left: 282.53px;
-top: 847px;
+top: 847px; github-
 }
 
 .futsal{
@@ -92,9 +92,9 @@ footer{
     background-color: #F4B7CA;
     border: -100px;
     color: #FFF;
-    width: 150%;
-    height: 100px; 
-    top: 2048px;   
+    width: 100% github-;
+    height: 100px;
+    top: 2048px;
     text-align: center;
     line-height: 100px;
 }
@@ -104,4 +104,3 @@ footer{
 font-style: normal;
 font-size: 25px;
 }
-
